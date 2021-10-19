@@ -1,5 +1,3 @@
-#P2P Messenger App
-
 Members:
 1) Name: Ananta Akash Podder
    Registration No.: 2016331102
@@ -27,6 +25,13 @@ their IP address and socket address to chat with each other. Only 2 person will 
 They can exchange messages and files through this app. Custom app theme and custom buttons are provided which gives a new look
 to this application.
 
+**
+ScreenShots:**
+
+![a](https://user-images.githubusercontent.com/49761339/137983578-b0d60336-fd1d-48e7-81e4-cfd29d5fbc1b.png)
+![b](https://user-images.githubusercontent.com/49761339/137983589-f963d310-f84a-4e19-ae60-cdb4945bf1ff.png)
+![c](https://user-images.githubusercontent.com/49761339/137983607-372ef023-b6ac-41f4-8589-075b858224f3.png)
+![d](https://user-images.githubusercontent.com/49761339/137983620-75f9022f-95cc-4c4f-aa09-d271c54436c8.png)
 
 
 Tech Stack:
