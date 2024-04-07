@@ -1,20 +1,4 @@
-Members:
-1) Name: Ananta Akash Podder
-   Registration No.: 2016331102
-   
-2) Name: Md. Mahir Labib 
-   Registration No.: 2016331031
-
-
-Table of contents
-   =>Summary  
-   =>Tech Stack
-   =>Installation
-   =>Features
-   =>How the app works!
-   =>Correctness
-   
-
+**Course CSE-362(Computer Networking Lab) Project submitted by**: Ananta Akash Podder(2016331102)
 
 Summary:
 ------------------------------------------------------------------------------------------------------------------------------
@@ -23,8 +7,7 @@ their IP address and socket address to chat with each other. Only 2 person will 
 They can exchange messages and files through this app. Custom app theme and custom buttons are provided which gives a new look
 to this application.
 
-**
-ScreenShots:**
+**ScreenShots:**
 
 ![a](https://user-images.githubusercontent.com/49761339/137983578-b0d60336-fd1d-48e7-81e4-cfd29d5fbc1b.png)
 ![b](https://user-images.githubusercontent.com/49761339/137983589-f963d310-f84a-4e19-ae60-cdb4945bf1ff.png)
@@ -37,17 +20,6 @@ Tech Stack:
 Frontend: XML
 Backend: Java
 Platform: Android Studio
-
-
-
-
-Installation
----------------------------------------------------------------------------------------------------------------------------
-1) Download the Zip file and extract to any location.
-2) Open Android Studio then open the project from the extracted location.
-3) If any warning occurs due to different Version Control(VCS),configure VCS, delete Git from VCS
-
-
 
 
 Features
@@ -102,50 +74,3 @@ How the app works!
 14) Clear Chat button to clear the chat. If this button is pressed then only the chat window of the user pressed it		
     will be cleared.
 15) Chat view color can be changed by selecting differnt options from Menu.
-
-
-
-
-
-Correctness
----------------------------------------------------------------------------------------------------------------------------
-->We have tested this app multiple times in multiple devices.
-->This app runs perfectly on android mobile devices.
-->Two person can chat synchronously using two android devices proves that this app works.
-->Chat is saved in text files. Those are saved in the root directory which provesthat Save option is correctly implemented.
-  A Toast appears showing the path.
-->Sent text files are saved in the root directory which provesthat Sending Text File option is correctly implemented.
-  A Toast appears showing the path.
-->Background color, Chat view color changes correcly. It is shown in both end's UI interface.
-
-
-
-
-
-Each Members Participation:
-
-
-Ananta Akash Podder(2016331102)
-===============================
-
-1.Basic Peer to Peer connection.
-2.Message sharing.
-3.Server Client class implementation using Thread
-4.File sharing between two peers.
-5.File saving between two peers.
-6.Color change of the "Chat Text Tray".
-7."Voice recognition" feature
-8.Background of both the android devices concurrently.
-9."Sound Option" when file is sent.
-
-
-
-Md. Mahir Labib(2016331031)
-============================
-
-1.Splash Screen thread par
-2.Server Client class implementation using Thread
-3.Basic Peer to Peer connection
-4.Chatview Color Change option
-5.Button implementations with custom design of button(UI design)
-6.File saving 
