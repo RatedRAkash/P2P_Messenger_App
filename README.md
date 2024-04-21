@@ -27,19 +27,18 @@ Features
 
 
 
+```
 Basic Features
-...........................
 
 1) Basic Text Messaging GUI
 2) Background change option using a custom designed button
 3) Saving chat option using a custom designed button
 4) Sending Text file option using a custom designed button
+```
 
 
-
-
+```
 Additional Extra features
-...............................
 
 1) "Voice recognition" to chat.
 2) Splash Screen pops up during app bootload.
@@ -50,7 +49,7 @@ Additional Extra features
 7) Emoji sent option through message.
 8) "Sound" option when file is sent.
 9) "Text" can easily be copied from the chat box.
- 
+```
 
 
 
