@@ -2,8 +2,7 @@
 
 Summary:
 ------------------------------------------------------------------------------------------------------------------------------
-P2P App Messenger is an instant messaging Android app that is built using Java socket. Anyone using this app must provide
-their IP address and socket address to chat with each other. Only 2 person will be able to chat using this app using a socket.
+P2P App Messenger is an instant messaging Android app that is built using Java Socket Api. To use the app first provide IP address & Port of both sender & receiver to chat with each other. Only 2 person will be able to chat using this app using the socket.
 They can exchange messages and files through this app. Custom app theme and custom buttons are provided which gives a new look
 to this application.
 
@@ -13,13 +12,6 @@ to this application.
 ![b](https://user-images.githubusercontent.com/49761339/137983589-f963d310-f84a-4e19-ae60-cdb4945bf1ff.png)
 ![c](https://user-images.githubusercontent.com/49761339/137983607-372ef023-b6ac-41f4-8589-075b858224f3.png)
 ![d](https://user-images.githubusercontent.com/49761339/137983620-75f9022f-95cc-4c4f-aa09-d271c54436c8.png)
-
-
-Tech Stack:
-------------------------------------------------------------------------------------------------------------------------------
-Frontend: XML
-Backend: Java
-Platform: Android Studio
 
 
 Features
